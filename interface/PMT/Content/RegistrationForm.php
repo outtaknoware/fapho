@@ -1,6 +1,6 @@
-<div class="flex flex-col jusitfy-end relative flex-1 w-0 xl:flex xl:w-3/5 bg-[url('/assets/images/IMG_4471.webp')] bg-cover">
-	<div class="m-auto">
-		<img src="/assets/images/FaPhoLogo@2x.png" class="">
+<div class="relative flex-1 w-0 xl:flex xl:flex-col justify-end xl:w-3/5 bg-[url('/assets/images/IMG_4471.webp')] bg-cover">
+	<div class="mx-auto">
+		<img src="/assets/images/FaPhoLogo-white@2x.png" class="">
 	</div>
 </div>
 <div class="flex flex-col w-full xl:w-2/5 lg:flex-none xl:px-8">
