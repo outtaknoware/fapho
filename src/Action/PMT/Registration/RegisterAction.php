@@ -36,8 +36,6 @@ class RegisterAction extends CoreAction
 			$registrationID = Text::uuid();
 			$registration['id'] = $registrationID;
 
-			ray($registration);
-
 			$registration = json_encode($registration);
 
 			$fs->write($registrationID . ".json", $registration);
